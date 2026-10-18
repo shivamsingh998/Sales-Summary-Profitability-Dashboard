@@ -28,8 +28,8 @@ An interactive Excel dashboard designed to analyze sales performance, revenue, a
 * COGS: $348,839
 
 ## Files
-* `Sales-Summary-Profitability-Dashboard.xlsx` — Excel dashboard workbook
-* `dashboard-preview.png` — Dashboard screenshot
+* Sales Summary & Profitability Dashboard.xlsx — Excel dashboard workbook
+* Dashboard Pic..png — Dashboard screenshot
 
 ## Author
 Shivam Singh
