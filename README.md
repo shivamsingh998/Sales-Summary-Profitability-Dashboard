@@ -1,35 +1,43 @@
 # Sales Summary & Profitability Dashboard
 
 ## Project Overview
-An interactive Excel dashboard designed to analyze sales performance, revenue, and profitability across products, countries, regions, months, and sales channels.
+
+This project presents an interactive Sales Summary & Profitability Dashboard created in Microsoft Excel to analyze sales performance, revenue, profit, and business profitability.
+
+The dashboard helps summarize key business metrics and understand sales trends through visualizations and reports.
+
+## Dashboard Preview
+
+![Sales Summary & Profitability Dashboard](https://raw.githubusercontent.com/shivamsingh998/Sales-Summary-Profitability-Dashboard/main/Dashboard%20Pic..png)
+
+## Key Features
+
+* Sales and revenue analysis
+* Profitability analysis
+* Summary of key business metrics
+* Interactive dashboard visualizations
+* Sales performance reporting
+* Data-driven business insights
 
 ## Tools & Technologies
+
 * Microsoft Excel
-* Pivot Tables and Pivot Charts
-* Interactive Slicers
-* KPI Cards
-* Data Visualization
+* Pivot Tables
+* Excel Charts
+* Dashboard Design
+* Data Analysis
 
-## Dashboard Features
-* Total Revenue, Gross Profit, Gross Profit Margin, Units Sold, Total Orders, and COGS
-* Monthly revenue and gross profit trends
-* Top countries by revenue
-* Revenue share by sales channel
-* Region-wise comparison
-* Country-wise map visualization
-* Interactive filters for product category, country, and quarter
+## Project Files
 
-## Key Metrics
-* Total Revenue: $645,223
-* Total Gross Profit: $296,384
-* Gross Profit Margin: 45.94%
-* Total Units Sold: 6,698
-* Total Orders: 2,707
-* COGS: $348,839
+* [Download Excel Dashboard](./Sales%20Summary%20%26%20Profitability%20Dashboard.xlsx)
+* [View Dashboard Image](./Dashboard%20Pic..png)
 
-## Files
-* Sales Summary & Profitability Dashboard.xlsx — Excel dashboard workbook
-* Dashboard Pic..png — Dashboard screenshot
+## Objective
+
+The objective of this project is to transform sales data into a clear, visual summary that supports business performance monitoring and profitability analysis.
 
 ## Author
-Shivam Singh
+
+**Shivam Singh**
+
+[GitHub Repository](https://github.com/shivamsingh998/Sales-Summary-Profitability-Dashboard)
